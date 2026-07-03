@@ -1,84 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mohammed Elbestawy</h1>
-<h3 align="center">Ethical Hacker & Penetration Tester in Progress 🔐 | Egypt</h3>
+<h1 align="center">Hi, I'm Mohammed 👋</h1>
+<h3 align="center">Junior Penetration Tester | CIS Student | Exploring Cloud Security</h3>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 CS Student with a focus on Network Security & Ethical Hacking
-- 🛡️ Trained at NTI (Network Security) & Mahara Tech (Ethical Hacking, Linux)
-- 📚 Completed Full Ethical Hacking Course by The Cyber Mentor (15hrs) — practiced on real machines (Blue, etc.)
-- 🔬 20+ Rooms completed on TryHackMe and still going
-- 🌐 Next target: PortSwigger Web Security Academy
-
----
-
-### 🛠️ Skills & Tools
-
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
-
-
-
-
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=flat&logo=hackthebox&logoColor=white)
-
-
-
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-
-
-
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-
-
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-
+- 🔭 Currently a Computer & Information Sciences student, focused on **Penetration Testing**
+- 🌱 Actively working through **TryHackMe's Jr Penetration Tester path**, **TCM Security's Practical Ethical Hacking**, and **PortSwigger Web Security Academy**
+- ☁️ Longer-term interest in **Cloud Security** — early exploration alongside offensive security fundamentals, starting with AWS Security
+- 📝 I document everything I learn — tool usage, real engagement workflows, and machine writeups — in my [Pentesting-Notes](https://github.com/mohammed-elbestawy/Pentesting-Notes) repo
+- 💬 Ask me about SMB exploitation, web app vulnerabilities (OWASP Top 10), or Active Directory attack chains
+- ⚡ Fun fact: my learning notes are more organized than most of my actual code
 
 ---
 
-### 📌 Featured Projects
+### What I'm Working On
 
-| Project | Description |
-|--------|-------------|
-| 🔍 [Simple Port Scanner](https://github.com/mohammed-elbestawy/Simple-port-scanner) | Basic port scanner built with Python |
-| 📓 [Pentest Lab Notes](https://github.com/mohammed-elbestawy/Pentest-Lab-Notes) | Personal notes from TryHackMe & TCM Security labs |
-
----
-
-### 📈 Currently Learning
-
-- 🕸️ Web Application Pentesting — PortSwigger
-- ☁️ Cloud Security fundamentals
-- 🧪 More TryHackMe rooms (Active Directory, Privilege Escalation)
+| Area | Status |
+|---|---|
+| TryHackMe Jr Penetration Tester | 🔄 In Progress |
+| TCM Security — Practical Ethical Hacking | ✅ Completed |
+| PortSwigger Web Security Academy (SQLi, XSS, SSRF, OAuth) | 🔄 In Progress |
+| Active Directory attack chains (BloodHound, Impacket, Rubeus) | 🔄 In Progress |
+| AWS Security fundamentals | 🔄 Starting |
 
 ---
 
-### 🔗 Connect with Me
+### Tools I Work With
 
-[
+`Nmap` `Burp Suite` `Metasploit` `CrackMapExec` `Impacket` `BloodHound` `ffuf` `Hydra` `Hashcat` `Wireshark`
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+---
 
-](https://www.linkedin.com/in/mohammed-elbestawy-4349a7328)
-[
+### Connect With Me
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elbestawy-4349a7328)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BEST1)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkxalfax@gmail.com)
 
-](https://tryhackme.com/p/BEST1)
+---
+
+<p align="center"><i>Currently focused on breaking things safely — building toward securing them at scale.</i></p>
