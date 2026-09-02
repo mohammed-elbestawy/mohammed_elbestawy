@@ -18,9 +18,9 @@
 
 - 🔭 Computer & Information Sciences student, focused on **Penetration Testing**
 - 🌱 Working through **TryHackMe's Jr Penetration Tester path**, **TCM Security's Practical Ethical Hacking**, and **PortSwigger Web Security Academy**
-- ☁️ Longer-term goal: moving into **Cloud Security**, starting with AWS Security fundamentals
-- 📝 I document everything I learn — tool usage, real engagement workflows, and machine writeups — in [Pentesting-Notes](https://github.com/mohammed-elbestawy/Pentesting-Notes)
-- 💬 Ask me about SMB exploitation, OWASP Top 10 web vulnerabilities, or Active Directory attack chains
+- ☁️ Moving into **Cloud Security** — built two fully-serverless AWS projects (ATS CV generator, contact/feedback form) and hands-on with an AWS Cognito/DynamoDB misconfiguration challenge, exploiting overly-permissive IAM roles on unauthenticated identity pools
+- 📝 I document everything I learn — tool usage, real engagement workflows, and machine/lab writeups — in [Pentesting-Notes](https://github.com/mohammed-elbestawy/Pentesting-Notes)
+- 💬 Ask me about JWT algorithm confusion, Active Directory attack chains, or IAM misconfigurations in AWS
 - ⚡ Fun fact: my notes repo is more organized than most of my actual code
 
 ---
@@ -31,9 +31,10 @@
 |---|:---:|
 | TryHackMe — Jr Penetration Tester path | 🔄 In Progress |
 | TCM Security — Practical Ethical Hacking | ✅ Completed |
-| PortSwigger Web Security Academy (SQLi, XSS, SSRF, OAuth) | 🔄 In Progress |
+| PortSwigger Web Security Academy (JWT, OAuth, Access Control, SQLi, XSS, SSRF) | 🔄 In Progress |
 | Active Directory Attacks (BloodHound, Impacket, Rubeus) | 🔄 In Progress |
-| AWS Security Fundamentals | 🚀 Starting |
+| AWS Security Fundamentals (Cognito, IAM, DynamoDB) | 🔄 In Progress |
+| Serverless AWS Projects (ATS CV Generator, Feedback Form) | ✅ Built & Deployed |
 
 ---
 
@@ -61,6 +62,11 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white" />
 </p>
 
+**Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
 **OS & Scripting**
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -73,11 +79,19 @@
 ### 📂 Featured Work
 
 * **[Pentesting-Notes](https://github.com/mohammed-elbestawy/Pentesting-Notes)**
-  Organized writeups by engagement phase — Discovery, Credentials, Exploitation, Web — covering real tool usage and step-by-step methodology.
-  `Nmap` `Burp Suite` `Documentation`
+  Machine and lab writeups (TCM Security, TryHackMe, PortSwigger) alongside organized tool reference — covering JWT algorithm confusion, OAuth flow abuse, access control bypass, SMB exploitation, and Active Directory attack chains.
+  `Nmap` `Burp Suite` `Impacket` `Documentation`
+
+* **[AWS-ATS-CV-Serverless-Project](https://github.com/mohammed-elbestawy/AWS-ATS-CV-Serverless-Project)**
+  Fully-serverless AWS architecture (VPC, EC2, ALB, Lambda, S3, DynamoDB, API Gateway) for an ATS-optimized CV generator — built and documented from scratch on AWS Free Tier.
+  `Python` `AWS` `Lambda` `DynamoDB`
+
+* **[AWS-Serverless-Feedback-Form-Project](https://github.com/mohammed-elbestawy/AWS-Serverless-Feedback-Form-Project)**
+  Fully-serverless AWS contact form (S3, CloudFront, API Gateway, Lambda, DynamoDB, SNS) with HTTPS delivery and real-time email notifications — built and deployed on AWS Free Tier.
+  `Python` `AWS` `Serverless` `SNS`
 
 * **[Simple Port Scanner](https://github.com/mohammed-elbestawy/Simple-port-scanner)**
-  A lightweight Python-based TCP port scanner, built to understand raw socket scanning before relying on Nmap.
+  A lightweight, multithreaded Python TCP port scanner, built to understand raw socket scanning before relying on Nmap.
   `Python` `Networking`
 
 ---
