@@ -16,6 +16,7 @@
 
 ### About Me
 
+- 🌐 Portfolio: **[mohammed-elbestawy.github.io](https://mohammed-elbestawy.github.io)**
 - 🔭 Computer & Information Sciences student, focused on **Penetration Testing**
 - 🌱 Working through **TryHackMe's Jr Penetration Tester path**, **TCM Security's Practical Ethical Hacking**, and **PortSwigger Web Security Academy**
 - ☁️ Moving into **Cloud Security** — built two fully-serverless AWS projects (ATS CV generator, contact/feedback form) and hands-on with an AWS Cognito/DynamoDB misconfiguration challenge, exploiting overly-permissive IAM roles on unauthenticated identity pools
@@ -105,6 +106,7 @@
 ### Connect With Me
 
 <p align="center">
+  <a href="https://mohammed-elbestawy.github.io"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammed-elbestawy-4349a7328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/BEST1"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="mailto:darkxalfax@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
