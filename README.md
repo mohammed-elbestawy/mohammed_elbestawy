@@ -121,16 +121,68 @@ Machine and lab writeups (TCM Security, TryHackMe, PortSwigger) alongside organi
 
 <br>
 
-## 📈 GitHub Stats
+## 🚀 Open For
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**☁️ Cloud Security**
+<br><sub>AWS IAM audits · least-privilege policy design · serverless architecture review</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🏗️ Serverless Builds**
+<br><sub>End-to-end AWS projects — Lambda, API Gateway, DynamoDB, S3, CloudFront</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**📄 Security Documentation**
+<br><sub>Clear, structured writeups and reports — pentest findings or architecture decisions</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-elbestawy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=F59E0B&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-elbestawy&theme=react&hide_border=true&background=0D1117&ring=22C55E&fire=F59E0B&currStreakLabel=22C55E" height="165" />
+  <a href="mailto:darkxalfax@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-22C55E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mohammed-elbestawy.github.io"><img src="https://img.shields.io/badge/View%20Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-elbestawy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" height="165" />
-</p>
+<br>
+
+## 📈 At a Glance
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 629+
+**GitHub Contributions**
+
+</td>
+<td align="center" width="25%">
+
+### Top 3%
+**TryHackMe Global Rank**
+
+</td>
+<td align="center" width="25%">
+
+### 71
+**TryHackMe Rooms Completed**
+
+</td>
+<td align="center" width="25%">
+
+### 6
+**AWS Projects Shipped**
+
+</td>
+</tr>
+</table>
 
 <br>
 
