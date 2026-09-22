@@ -36,61 +36,17 @@ target_market:     Gulf region, Cloud Security / Pentest roles
 
 ## 🧰 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**☁️ Cloud & Infrastructure**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/EC2%20%7C%20VPC-FF9900?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/IAM%20%7C%20Cognito-DD344C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,python,bash,cs,linux,git,github&theme=dark" />
 </p>
 
-**💻 Languages & Scripting**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<p align="center">
+  <sub><b>AWS services:</b> EC2 · Lambda · S3 · DynamoDB · API Gateway · VPC · IAM · Cognito · CloudFront · SQS · SNS · WAF · Comprehend</sub>
 </p>
 
-</td>
-<td valign="top" width="50%">
-
-**🎯 Offensive Security Toolkit**
-<p>
-<img src="https://img.shields.io/badge/Nmap-1F4E79?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ffuf-4B0082?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <sub><b>Also worked with (offensive security):</b> Nmap · Burp Suite · Metasploit · BloodHound · Impacket · CrackMapExec · Hydra · Hashcat · Wireshark · ffuf</sub>
 </p>
-<p>
-<img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Impacket-6A5ACD?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/CrackMapExec-343A40?style=for-the-badge&logoColor=white" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Hydra-990000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
-**🖥️ OS**
-<p>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -159,28 +115,9 @@ Fully-serverless AWS architecture (VPC, EC2, ALB, Lambda, S3, DynamoDB, API Gate
 
 ### 🎯 Security / Pentesting
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **[Pentesting-Notes](https://github.com/mohammed-elbestawy/Pentesting-Notes)**
-
-Machine and lab writeups (TCM Security, TryHackMe, PortSwigger) alongside organized tool reference — covering web application security fundamentals, SMB exploitation, and Active Directory attack chains.
-
+Machine and lab writeups (TCM Security, TryHackMe, PortSwigger) alongside organized tool reference — covering web application security fundamentals, SMB exploitation, and Active Directory attack chains. This offensive foundation directly informs how I approach IAM design and cloud misconfigurations.
 `Nmap` `Burp Suite` `Impacket` `Documentation`
-
-</td>
-<td width="50%" valign="top">
-
-**[Simple Port Scanner](https://github.com/mohammed-elbestawy/Simple-port-scanner)**
-
-A lightweight, multithreaded Python TCP port scanner, built to understand raw socket scanning before relying on Nmap.
-
-`Python` `Networking`
-
-</td>
-</tr>
-</table>
 
 <br>
 
