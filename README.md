@@ -7,13 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://mohammed-elbestawy.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mohammed-elbestawy-4349a7328">LinkedIn</a> ·
-  <a href="mailto:darkxalfax@gmail.com">Email</a>
+  <a href="https://mohammed-elbestawy.github.io"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-elbestawy-4349a7328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=darkxalfax@gmail.com"><img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <b>629+</b> contributions &nbsp;·&nbsp; <b>top 3%</b> TryHackMe global &nbsp;·&nbsp; <b>71</b> rooms completed &nbsp;·&nbsp; <b>6</b> AWS projects shipped
+  <img src="https://img.shields.io/badge/629%2B-Contributions-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%203%25-TryHackMe%20Global-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/71-Rooms%20Completed-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/6-AWS%20Projects%20Shipped-F59E0B?style=flat-square" />
 </p>
 
 <br>
@@ -64,7 +67,7 @@ Everything I learn gets documented in [Pentesting-Notes](https://github.com/moha
 **Cloud Security audits** · **Serverless AWS builds** · **Security documentation & writeups**
 
 <p align="center">
-  <a href="mailto:darkxalfax@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-22C55E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=darkxalfax@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-22C55E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
